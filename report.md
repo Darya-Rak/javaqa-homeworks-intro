@@ -7,8 +7,8 @@
 В результате тестирования выявлены следующие дефекты:
 
 *Issues:* 
-* https://github.com/Darya-Rak/javaqa-homeworks-intro/issues/1
-* https://github.com/Darya-Rak/javaqa-homeworks-intro/issues/3
+* [Валидные ключи, не работают](https://github.com/Darya-Rak/javaqa-homeworks-intro/issues/1)
+* [Невалидный ключ, работает](https://github.com/Darya-Rak/javaqa-homeworks-intro/issues/3)
 
 ## **Описание процесса тестирования**
 В процессе тестирования использовались следующие артефакты:
