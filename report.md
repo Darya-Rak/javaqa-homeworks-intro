@@ -5,9 +5,10 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* При запуске KeyValidator валидный ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6 не работает
-* При запуске KeyValidator валидный ключ 387eedc6-12e9-3b32-9881-63b6b5e85317 не работает
-* При запуске KeyValidator невалидный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 работает
+
+*Issues:* 
+* https://github.com/Darya-Rak/javaqa-homeworks-intro/issues/1
+* https://github.com/Darya-Rak/javaqa-homeworks-intro/issues/3
 
 ## **Описание процесса тестирования**
 В процессе тестирования использовались следующие артефакты:
